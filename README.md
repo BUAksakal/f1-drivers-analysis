@@ -19,6 +19,7 @@ install.packages(c("tidyverse", "rvest"))
 Just run `f1_analysis.R` — no external data files needed, it pulls directly from Wikipedia.
 
 ## Output
+![Uploading 0f9a3eeb-fe3a-4e5a-ba65-3a483bf94e3d.png…]()
 
 A horizontal bar chart of the top 15 F1 drivers ranked by world championship titles, with race wins as a tiebreaker.
 
